@@ -1,0 +1,181 @@
+[
+    {
+      "date": "2025-01-13",
+      "type": "Full Moon",
+      "name": "Wolf Moon"
+    },
+    {
+      "date": "2025-01-29",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-02-12",
+      "type": "Full Moon",
+      "name": "Snow Moon"
+    },
+    {
+      "date": "2025-02-28",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-03-14",
+      "type": "Full Moon",
+      "name": "Worm Moon"
+    },
+    {
+      "date": "2025-03-29",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-04-13",
+      "type": "Full Moon",
+      "name": "Pink Moon"
+    },
+    {
+      "date": "2025-04-27",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Full Moon",
+      "name": "Flower Moon"
+    },
+    {
+      "date": "2025-05-26",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-06-11",
+      "type": "Full Moon",
+      "name": "Strawberry Moon"
+    },
+    {
+      "date": "2025-06-25",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-07-10",
+      "type": "Full Moon",
+      "name": "Buck Moon"
+    },
+    {
+      "date": "2025-07-24",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-08-09",
+      "type": "Full Moon",
+      "name": "Sturgeon Moon"
+    },
+    {
+      "date": "2025-08-23",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-09-07",
+      "type": "Full Moon",
+      "name": "Corn Moon"
+    },
+    {
+      "date": "2025-09-21",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-10-07",
+      "type": "Full Moon",
+      "name": "Harvest Moon"
+    },
+    {
+      "date": "2025-10-21",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-11-05",
+      "type": "Full Moon",
+      "name": "Beaver Moon"
+    },
+    {
+      "date": "2025-11-20",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-12-05",
+      "type": "Full Moon",
+      "name": "Cold Moon"
+    },
+    {
+      "date": "2025-12-19",
+      "type": "New Moon"
+    },
+    {
+      "date": "2025-01-04",
+      "type": "Meteor Shower",
+      "name": "Quadrantids Peak"
+    },
+    {
+      "date": "2025-04-22",
+      "type": "Meteor Shower",
+      "name": "Lyrids Peak"
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Meteor Shower",
+      "name": "Eta Aquariids Peak"
+    },
+    {
+      "date": "2025-07-30",
+      "type": "Meteor Shower",
+      "name": "Delta Aquariids Peak"
+    },
+    {
+      "date": "2025-08-12",
+      "type": "Meteor Shower",
+      "name": "Perseids Peak"
+    },
+    {
+      "date": "2025-10-08",
+      "type": "Meteor Shower",
+      "name": "Draconids Peak"
+    },
+    {
+      "date": "2025-10-22",
+      "type": "Meteor Shower",
+      "name": "Orionids Peak"
+    },
+    {
+      "date": "2025-11-17",
+      "type": "Meteor Shower",
+      "name": "Leonids Peak"
+    },
+    {
+      "date": "2025-12-14",
+      "type": "Meteor Shower",
+      "name": "Geminids Peak"
+    },
+    {
+      "date": "2025-12-22",
+      "type": "Meteor Shower",
+      "name": "Ursids Peak"
+    },
+    {
+      "date": "2025-09-21",
+      "type": "Planetary Event",
+      "name": "Saturn at Opposition"
+    },
+    {
+      "date": "2025-10-03",
+      "type": "Planetary Event",
+      "name": "Uranus at Opposition"
+    },
+    {
+      "date": "2025-11-17",
+      "type": "Planetary Event",
+      "name": "Jupiter at Opposition"
+    },
+    {
+      "date": "2025-12-19",
+      "type": "Planetary Event",
+      "name": "Mercury at Greatest Eastern Elongation"
+    }
+  ]
+  
